@@ -2,7 +2,7 @@
 
 # Demo-Preview
 
-![Landing page preview](/chrome-capture.gif "Landing page preview")
+![Weather Journal App  preview](/chrome-capture.gif "Weather Journal App  preview")
 
 # Development
 
@@ -71,9 +71,9 @@
 
   The div with the `id`, `entryHolder` has three child divs with the ids:
 
-    - `date`
-    - `temp`
-    - `content`
+  - `date`
+  - `temp`
+  - `content`
 
 - ### Event Listeners
 
