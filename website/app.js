@@ -65,7 +65,7 @@ const retrieveData = async () => {
     document.getElementById("content").innerHTML = `Feeling: ${
       allData.content ?? "no feeling"
     }`;
-    document.getElementById("date").innerHTML = `Date: ${allData.date}`;
+    document.getElementById("date").innerHTML = `Current date: ${allData.date}`;
   } catch (error) {
     console.log("retrieve from server", error);
   }
